@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: cdfa5c53689a57a4bae0e75c3d5f7e7e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 277
+        width: 35
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe721327ce4eff4d904a4ecafa9fc7b
+      internalID: 1143974410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 277
+        width: 44
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a7c956ac1caa94da61502d18279964
+      internalID: 1555125968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 277
+        width: 52
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1a139f27ffe304496717cfe039bdd4
+      internalID: 1991943686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 274
+        width: 71
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a26ba58fc09ff43b5078fb1d34e005
+      internalID: -155833572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 301
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbd4a5c665a07841b30023beb9fe7a1
+      internalID: -503501617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 301
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa765348d05e44da834bceca850036
+      internalID: -139533438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 274
+        width: 79
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589e93786ed295c4db62f8619bdfb6b1
+      internalID: -518025417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 274
+        width: 79
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eaa9a8a004d2c42bbf05b9bc4d3dc1
+      internalID: -2027819443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 274
+        width: 80
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da57629e955a81147b68ecd067753aac
+      internalID: 936995533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 274
+        width: 79
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53332634d9ec76146b9b7c85cb54fa57
+      internalID: -952902082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 188
+        width: 35
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7e3e7f0750ed94d89a072b6ec4c0e9
+      internalID: 1664290451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 188
+        width: 44
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8316b3b270863e40bedbd555120a8a3
+      internalID: 741844988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 188
+        width: 52
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21123045e9fc694583b9fa3d653c8be
+      internalID: -1410692499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 186
+        width: 71
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421ff4cb529909a43a9cde8210e44f32
+      internalID: -925190265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 213
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1946c30d42f71214ab4dcd0004300bf5
+      internalID: -2076085037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 213
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0919764c056db4e8f8fbb86c55ed9b
+      internalID: -829280050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 186
+        width: 79
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a6f0cfed3fe8b479dd5a05aab8198b
+      internalID: 1245711022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 186
+        width: 79
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4dd3832889034fa0bd14575ac9143
+      internalID: 1048536725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 186
+        width: 80
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9283a573131977a40b8036d27b0869e2
+      internalID: 1534383395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 186
+        width: 79
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128eb24516ce49b428473b2830db81b2
+      internalID: 900950213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 46
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761add7399f5beb4fa899969d5f48de3
+      internalID: 1597208780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 100
+        width: 52
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4489b4c0b82f3f64490fa31ffa654202
+      internalID: -1976260972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 100
+        width: 59
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ffee900e27a884da131d97438f4731
+      internalID: -335819445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 97
+        width: 77
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5faeb9dac9d7446b51ddd3025163f5
+      internalID: -63371328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 125
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54b980fb0e6473409587682ad6849f2
+      internalID: 2146062901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 125
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442a57e4e40bb5b4fbb92e2b4b1bcba3
+      internalID: -1429571619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 97
+        width: 81
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cd5adcf6ba23e4d96c90eb5f48c305
+      internalID: 1890148136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 97
+        width: 81
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab37c83a5c4c6914ba663360dfcfc8fb
+      internalID: 450733085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 97
+        width: 81
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15401c256d9ecd4099be35dff823aba
+      internalID: -2076925819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 97
+        width: 80
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8b7fdc5e75de74882bc8b1fb172e40
+      internalID: 417488442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 46
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ba8c0bf7b74934ba0f74c434146d33
+      internalID: -1921639204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 12
+        width: 51
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f49241b6d1ef7940aa74911b766870b
+      internalID: -999447630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 12
+        width: 59
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7e6c8b4fdfcd34c87b508ea61ce343
+      internalID: 2019612788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 9
+        width: 77
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52578b92798d5064583c56b0c475bfaa
+      internalID: 473591411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 36
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac72d6029826a349b3c1f1b6cb76311
+      internalID: -892829400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 36
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b03c51aaa41f9b4495d680c1f5999a6
+      internalID: 456514763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 9
+        width: 81
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f25cc8b515abef438db6f1989e79c90
+      internalID: -1845198179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 9
+        width: 81
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1911797a924e4464db991c26f9f962ab
+      internalID: -1486364390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 9
+        width: 81
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f62df2a10ddb4c94ca9a98bf49dc4
+      internalID: 2087256757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 9
+        width: 80
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7e22998bb33354eac6e23812cbbdc9
+      internalID: 1576854018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 198
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349a4738c541c694cba08b92abf732fe
+      internalID: -903263633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 198
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b818261322f4ea4eb8da4b59bcd9fb9
+      internalID: 1484127590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louise-still-death-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 198
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da6b5d718055be46a3729a1e14b6929
+      internalID: 997916319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      louise-still-death-removebg-preview_0: 1143974410
+      louise-still-death-removebg-preview_1: 1555125968
+      louise-still-death-removebg-preview_10: 1664290451
+      louise-still-death-removebg-preview_11: 741844988
+      louise-still-death-removebg-preview_12: -1410692499
+      louise-still-death-removebg-preview_13: -925190265
+      louise-still-death-removebg-preview_14: -2076085037
+      louise-still-death-removebg-preview_15: -829280050
+      louise-still-death-removebg-preview_16: 1245711022
+      louise-still-death-removebg-preview_17: 1048536725
+      louise-still-death-removebg-preview_18: -903263633
+      louise-still-death-removebg-preview_19: 1534383395
+      louise-still-death-removebg-preview_2: 1991943686
+      louise-still-death-removebg-preview_20: 1484127590
+      louise-still-death-removebg-preview_21: 900950213
+      louise-still-death-removebg-preview_22: 997916319
+      louise-still-death-removebg-preview_23: 1597208780
+      louise-still-death-removebg-preview_24: -1976260972
+      louise-still-death-removebg-preview_25: -335819445
+      louise-still-death-removebg-preview_26: -63371328
+      louise-still-death-removebg-preview_27: 2146062901
+      louise-still-death-removebg-preview_28: -1429571619
+      louise-still-death-removebg-preview_29: 1890148136
+      louise-still-death-removebg-preview_3: -155833572
+      louise-still-death-removebg-preview_30: 450733085
+      louise-still-death-removebg-preview_31: -2076925819
+      louise-still-death-removebg-preview_32: 417488442
+      louise-still-death-removebg-preview_33: -1921639204
+      louise-still-death-removebg-preview_34: -999447630
+      louise-still-death-removebg-preview_35: 2019612788
+      louise-still-death-removebg-preview_36: 473591411
+      louise-still-death-removebg-preview_37: -892829400
+      louise-still-death-removebg-preview_38: 456514763
+      louise-still-death-removebg-preview_39: -1845198179
+      louise-still-death-removebg-preview_4: -503501617
+      louise-still-death-removebg-preview_40: -1486364390
+      louise-still-death-removebg-preview_41: 2087256757
+      louise-still-death-removebg-preview_42: 1576854018
+      louise-still-death-removebg-preview_5: -139533438
+      louise-still-death-removebg-preview_6: -518025417
+      louise-still-death-removebg-preview_7: -2027819443
+      louise-still-death-removebg-preview_8: 936995533
+      louise-still-death-removebg-preview_9: -952902082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
